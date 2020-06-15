@@ -30,3 +30,6 @@
 |합창|발성|2|
 |연극의이해|연극의 역사와 최신 동향|3|
 
+github address: [kjimin1118][github]
+
+[github]:http://github.com/kjimin1118
