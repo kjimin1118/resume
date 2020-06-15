@@ -2,4 +2,4 @@
 ---
 ![이력서사진](kjm.jpg)
 
-<img src=kjm.jpg height=150 widht=150
+<img src=kjm.jpg height=150 widht=150>
